@@ -126,7 +126,7 @@
        transform="matrix(1,0,0,-1,109.994,10.708)"
        id="path48" />
     <g
-       style="fill:rgb(0%,0%,0%);fill-opacity:1;"
+       style="fill-opacity:1;"
        id="g52">
       <use
          xlink:href="#glyph0-1"
@@ -140,7 +140,7 @@
        transform="matrix(1,0,0,-1,109.994,10.708)"
        id="path54" />
     <g
-       style="fill:rgb(0%,0%,0%);fill-opacity:1;"
+       style="fill-opacity:1;"
        id="g58">
       <use
          xlink:href="#glyph0-2"
@@ -164,7 +164,7 @@
          id="path62" />
     </g>
     <g
-       style="fill:rgb(0%,0%,0%);fill-opacity:1;"
+       style="fill-opacity:1;"
        id="g68">
       <use
          xlink:href="#glyph0-3"
@@ -188,7 +188,7 @@
          id="path72" />
     </g>
     <g
-       style="fill:rgb(0%,0%,0%);fill-opacity:1;"
+       style="fill-opacity:1;"
        id="g78">
       <use
          xlink:href="#glyph0-4"
@@ -207,7 +207,7 @@
        transform="matrix(1,0,0,-1,109.994,10.708)"
        id="path82" />
     <g
-       style="fill:rgb(0%,0%,0%);fill-opacity:1;"
+       style="fill-opacity:1;"
        id="g86">
       <use
          xlink:href="#glyph0-5"
@@ -226,7 +226,7 @@
        transform="matrix(1,0,0,-1,109.994,10.708)"
        id="path90" />
     <g
-       style="fill:rgb(0%,0%,0%);fill-opacity:1;"
+       style="fill-opacity:1;"
        id="g94">
       <use
          xlink:href="#glyph0-2"
@@ -240,7 +240,7 @@
        transform="matrix(1,0,0,-1,109.994,10.708)"
        id="path96" />
     <g
-       style="fill:rgb(0%,0%,0%);fill-opacity:1;"
+       style="fill-opacity:1;"
        id="g100">
       <use
          xlink:href="#glyph0-3"
@@ -259,7 +259,7 @@
        transform="matrix(1,0,0,-1,109.994,10.708)"
        id="path104" />
     <g
-       style="fill:rgb(0%,0%,0%);fill-opacity:1;"
+       style="fill-opacity:1;"
        id="g108">
       <use
          xlink:href="#glyph0-1"
@@ -283,7 +283,7 @@
          id="path112" />
     </g>
     <g
-       style="fill:rgb(0%,0%,0%);fill-opacity:1;"
+       style="fill-opacity:1;"
        id="g118">
       <use
          xlink:href="#glyph0-4"
@@ -307,7 +307,7 @@
          id="path122" />
     </g>
     <g
-       style="fill:rgb(0%,0%,0%);fill-opacity:1;"
+       style="fill-opacity:1;"
        id="g128">
       <use
          xlink:href="#glyph0-5"
@@ -331,7 +331,7 @@
        transform="matrix(1,0,0,-1,123.70913,46.14149)"
        id="path134" />
     <g
-       style="fill:rgb(0%,0%,0%);fill-opacity:1;"
+       style="fill-opacity:1;"
        id="g140">
       <use
          xlink:href="#glyph1-1"
@@ -355,7 +355,7 @@
        transform="matrix(-1,0,0,1,96.27887,60.3149)"
        id="path144" />
     <g
-       style="fill:rgb(0%,0%,0%);fill-opacity:1;"
+       style="fill-opacity:1;"
        id="g150">
       <use
          xlink:href="#glyph1-3"
